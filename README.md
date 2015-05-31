@@ -1,8 +1,11 @@
 # EE352 Final Project
-# May 6, 2015
-# Name: Tiffany Ashley Tjahjadi
-# Email: ttjahjad@usc.edu
-# Run in MARS
+May 6, 2015
+
+Name: Tiffany Ashley Tjahjadi
+
+Email: ttjahjad@usc.edu
+
+Run in MARS
 
 I implemented the simulation with set associativity and an LRU replacement policy.
 
